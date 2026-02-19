@@ -1,5 +1,5 @@
 import React from 'react';
-import FunnyCodeOverlay from '../../../../awais-raza-_-multidisciplinary-engineer-portfolio (3)/components/Common/FunnyCodeOverlay';
+import FunnyCodeOverlay from '../Common/FunnyCodeOverlay';
 import { Globe, ArrowUpRight, Github, Linkedin, Instagram, Facebook, Mail } from 'lucide-react';
 
 const ContactSection: React.FC = () => {
