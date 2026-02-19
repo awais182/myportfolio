@@ -1,6 +1,6 @@
 
 import React from 'react';
-import FunnyCodeOverlay from '../Common/FunnyCodeOverlay';
+import FunnyCodeOverlay from '../components/Common/FunnyCodeOverlay';
 
 const ContactSection: React.FC = () => {
   return (
