@@ -1,0 +1,8 @@
+{
+  "name": "Awais Raza | Multidisciplinary Engineer Portfolio",
+  "description": "The professional digital nexus of Awais Raza, specializing in Software, Systems, Data, R&D, and Design. Features Maroon and Off-White high-end aesthetics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
